@@ -97,3 +97,20 @@ O objetivo principal desta seleção é reunir **ferramentas ativamente mantidas
 Contribuições são bem-vindas.
 
 Caso conheça ferramentas relevantes, ativamente mantidas e alinhadas às boas práticas de Cloud Security, sinta-se à vontade para abrir um Pull Request e contribuir com este repositório.
+
+---
+
+## Créditos e Referências
+
+Este repositório é um **fork e adaptação** de um projeto open source originalmente mantido pela comunidade internacional de Cloud Security.
+
+Repositório original:
+- Cloud Security Resources (versão em inglês)
+- Link: https://github.com/<autor-ou-org>/<nome-do-repositorio-original>
+
+O conteúdo original serviu como base conceitual e estrutural para este trabalho.  
+Todas as descrições foram **traduzidas, revisadas e adaptadas para português**, com ajustes de linguagem para um contexto **técnico, profissional e corporativo**, além da possibilidade de inclusão futura de novos recursos.
+
+Todo o crédito pelo levantamento inicial das ferramentas pertence aos autores e contribuidores do repositório original.
+
+Este fork segue os princípios de colaboração open source e tem como objetivo **expandir o acesso ao conhecimento em Cloud Security para a comunidade de língua portuguesa**.
